@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cafa734e-77f8-4c00-92d2-48fb6ed2c01f)# FLora Mart
+# FLora Mart
 
 ## Use case Diagram
 ![UseCaseDiagram](https://github.com/user-attachments/assets/f0c212d5-015b-48c5-b985-d792029295d0)
